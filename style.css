@@ -1,8 +1,9 @@
 body {
 
   background-image: url('bg/cherry tree.png');
-
   background-size: 1800px 1000px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 
