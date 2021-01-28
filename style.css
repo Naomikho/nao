@@ -231,10 +231,7 @@ button{
 }
 
 .table {
-    border: 1px solid #CCC;
-    border-collapse: collapse;
+    border: 0px;
 }
 
-.td {
-    border: none;
-}
+
